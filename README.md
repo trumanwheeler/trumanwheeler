@@ -1,0 +1,6 @@
+- 👋 Howdy, I’m @trumanwheeler!
+- 💼 I work as a Web Content Administrator for Lindenwood University
+- 👀 I like to make movies, travel, and learn new things
+- 🌱 Speaking of which, I'm currently learning JavaScript, Sass, and Vue.js
+- 💞️ I’m looking to collaborate on static websites and dynamic web apps. I really just want to learn more!
+- 📫 The best place to reach me is through LinkedIn @ https://www.linkedin.com/in/truman-wheeler/
