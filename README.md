@@ -1,5 +1,5 @@
-- 👋 Howdy, I’m @trumanwheeler!
-- 💼 I work as a Sitecore SME for Caleres, Inc.
-- 👀 I like to make movies, travel, and learn new things
-- 🌱 Speaking of which, I'm currently working on my Javascript skills
-- 📫 The best place to reach me is through LinkedIn @ https://www.linkedin.com/in/truman-wheeler/
+Truman Wheeler:
+- Sitecore CMS expert w/ video marketing experience
+- Working on MS Information Systems at University of Maine
+- Currently studying Python and Javascript
+- Reach me on LinkedIn @ https://www.linkedin.com/in/truman-wheeler/
